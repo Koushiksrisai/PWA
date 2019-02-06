@@ -1,0 +1,41 @@
+{
+    "profile": {
+        "img": "user1.png",
+        "name": "Koushik srisai",
+        "roll": "17A31A0546",
+        "institute": "pragati engineering college",
+        "place": "kakinada",
+        "mail": "koushiksrisai@gmail.com",
+        "phone": "9988776655"
+    },
+    "career": {
+        "car":"Career Objective",
+        "info":"To be a part of your company to share my knowledge"
+    },
+    "Education": [
+        {
+            "Sno": "1",
+            "degree": "Btech",
+            "institute": "pragati engineering college",
+            "percentage": "95.7%"
+        },
+        {
+            "Sno": "2",
+            "degree": "intermediate",
+            "institute": "narayana co spark",
+            "percentage": "98%"
+        },
+        {
+            "Sno": "3",
+            "degree": "10th",
+            "institute": "vvs",
+            "percentage": "97%"
+        }
+    ],
+    "languages":[
+        "english","telugu"
+    ],
+    "skills":[
+        "c","c++","python","java"
+    ]
+}
